@@ -1,0 +1,19 @@
+﻿тФЬтФА MIT: 1048
+тФЬтФА ISC: 61
+тФЬтФА CC0-1.0: 42
+тФЬтФА BSD-2-Clause: 37
+тФЬтФА Apache-2.0: 30
+тФЬтФА BSD-3-Clause: 26
+тФЬтФА BlueOak-1.0.0: 3
+тФЬтФА (MIT OR CC0-1.0): 3
+тФЬтФА Unlicense: 2
+тФЬтФА 0BSD: 2
+тФЬтФА Python-2.0: 1
+тФЬтФА MPL-2.0: 1
+тФЬтФА CC-BY-4.0: 1
+тФЬтФА BSD: 1
+тФЬтФА (Apache-2.0 OR MPL-1.1): 1
+тФЬтФА (AFL-2.1 OR BSD-3-Clause): 1
+тФЬтФА (BSD-3-Clause OR GPL-2.0): 1
+тФФтФА UNLICENSED: 1
+
