@@ -32,4 +32,4 @@
 
 ## Ліцензія
 
-- [License: MIT](./LICENSE.md)
+- [License: MIT](./LICENSE)
